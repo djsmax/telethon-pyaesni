@@ -17,7 +17,7 @@ To install this module and patch your Telethon installation just run:
 
 ::
 
-    pip install https://github.com/djsmax/telethon-pyaesni/archive/refs/heads/main.zip
+    pip install telethon-pyaesni
 
 Credits
 ~~~~~~~
